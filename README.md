@@ -7,13 +7,14 @@
 <p align="center">
   A file time changer tool on windows platform based on Pyside6-QFluentWidgets
 </p>
-
+<p align="center">
   <a style="text-decoration:none">
     <img src="https://img.shields.io/badge/Python-3.9.7-blue.svg?color=00B16A" alt="Python 3.9.7"/>
-  </a>
-  <a style="text-decoration:none">
+  </a>  <a style="text-decoration:none">
     <img src="https://img.shields.io/badge/Platform-Win32%20|%20Linux%20|%20macOS-blue?color=00B16A" alt="Platform Windows"/>
   </a>
+</p>
+  
 # 简述
 
 作者:[Gentlesprite](https://github.com/Gentlesprite)
