@@ -11,6 +11,9 @@
   <a style="text-decoration:none">
     <img src="https://img.shields.io/badge/Python-3.9.7-blue.svg?color=00B16A" alt="Python 3.9.7"/>
   </a>
+    <a style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Pyside6-QFluentWidgets%20-blue?color=00B16A" alt="Platform Win32"/>
+  </a>
   <a style="text-decoration:none">
     <img src="https://img.shields.io/badge/Platform-Windows%20-blue?color=00B16A" alt="Platform Win32"/>
   </a>
