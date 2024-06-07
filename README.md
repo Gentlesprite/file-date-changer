@@ -35,7 +35,7 @@ Github:[点击跳转下载](https://github.com/Gentlesprite/file-date-changer/re
 待后续上传B站...
 
 
-# 效果图:
+# 软件效果:
 ![image](https://github.com/Gentlesprite/file-date-changer/blob/main/res/20240607175434.png)
 ![image](https://github.com/Gentlesprite/file-date-changer/blob/main/res/20240607175514.png)
 ![image](https://github.com/Gentlesprite/file-date-changer/blob/main/res/20240607175448.png)
