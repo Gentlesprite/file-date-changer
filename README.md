@@ -5,7 +5,7 @@
   file-date-changer
 </h1>
 <p align="center">
-  A file time changer tool on windows platform based on Pyside6-QFluentWidgets
+  A file time changer tool on windows platform based on Python
 </p>
 <p align="center">
   <a style="text-decoration:none">
