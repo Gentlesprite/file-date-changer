@@ -15,7 +15,7 @@
 更改windows上的文件修改时间，修改时间，访问时间。以方便对文件进行简单的归档管理（压缩包，文件夹除外）软件免费分享，请勿用于非法用途。
 
 # 下载地址:
-蓝奏云:[点击跳转下载](https://wwm.lanzn.com/b0foivjib) 密码:5ic7
+蓝奏云:[点击跳转下载](https://wwm.lanzn.com/b0foiwt6f) 密码:1x1h
 
 Github:[点击跳转下载](https://github.com/Gentlesprite/file-date-changer/releases)
 
