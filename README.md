@@ -19,6 +19,11 @@
 
 Github:[点击跳转下载](https://github.com/Gentlesprite/file-date-changer/releases)
 
+# 视频教程
+
+待后续上传B站...
+
+
 # 效果图:
 ![image](https://github.com/Gentlesprite/file-date-changer/blob/main/res/20240607175434.png)
 ![image](https://github.com/Gentlesprite/file-date-changer/blob/main/res/20240607175514.png)
