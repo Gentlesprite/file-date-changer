@@ -5,7 +5,7 @@
   file-date-changer
 </h1>
 <p align="center">
-  A cross-platform music player based on PyQt5
+  A file time changer tool on windows platform based on Pyside6-QFluentWidgets
 </p>
 
-更改windows上的文件修改时间，修改时间，访问时间，软件ui使用Pyside6-QFluentWidgets
+更改windows上的文件修改时间，修改时间，访问时间
